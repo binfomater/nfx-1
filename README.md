@@ -4,7 +4,7 @@
 The current development of NFX **HAS MOVED HERE** ~~is moving~~. This repository contains the current NFX (v5) project which targets .NET 4.7.1 and Net Stadard 2/ Core 2. We have moved from [legacy NFX v3 repository](https://github.com/aumcode/nfx)
 
 **NFX**(v5 and beyond) **is based on .Net Standard 2**,
-having all of cli tools targeting both .NET FX 4.7.1+ and .NET Core 2+.
+having all of command-line tools targeting both .NET FX 4.7.1+ and .NET Core 2+.
 Future NFX will not officially support targets below .NET 4.7.1 (though possible) and .NET Core 2.
 
 The legacy [NFXv3* repo](https://github.com/aumcode/nfx) will continue to target .NET 4.5/Mono and may be supported for major bug fixes however **all new feature development is going to happen here in NFXv5+**.
